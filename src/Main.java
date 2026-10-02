@@ -1,4 +1,4 @@
-//ok i will add "substractor" and s35025 Will Add "Adder"
+// TODO: we need to add the missing classes!
 
 public class Main {
     public static void main(String[] args){
